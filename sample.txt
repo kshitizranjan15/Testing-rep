@@ -1,1 +1,1 @@
-this is sample file and also on rishaab branch.
+this is sample file and also a master file. Also this is a final merge.
